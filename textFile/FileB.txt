@@ -1,1 +1,2 @@
-hogehoge
+First write B
+child branch の変更を採用

@@ -1,1 +1,2 @@
-hogehoge
+First write C
+一行目はbase branch の変更を受け入れた。
