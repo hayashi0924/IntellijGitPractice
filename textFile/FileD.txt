@@ -1,4 +1,4 @@
 First write D
 write after child branch rebase
 failed
-これでコンフリクトするはず
+base はそのまま
