@@ -1,2 +1,1 @@
-First write C
-一行目はbase branch の変更を受け入れた。
+rebase は、真ん中のファイルを修正すればOKってこと？
