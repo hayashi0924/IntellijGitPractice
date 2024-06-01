@@ -1,4 +1,2 @@
 First write D
-second write
-hogehoge
-fugafuga
+write after child branch rebase
