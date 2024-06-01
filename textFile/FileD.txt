@@ -1,1 +1,4 @@
-hogehoge
+First write D
+write after child branch rebase
+failed
+base branch のリベースでコンフリクト発生を確認。
