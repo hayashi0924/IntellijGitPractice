@@ -1,2 +1,1 @@
-First write B
-child branch の変更を採用
+これも真ん中を編集するかんじかな
