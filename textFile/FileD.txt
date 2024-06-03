@@ -2,3 +2,4 @@ First write D
 write after child branch rebase
 failed
 base はそのまま
+Dもforce push 前に変更
